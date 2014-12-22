@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.lao- lao with tis820-2538</string>
+	<key>CFBundleName</key>
+	<string>Lao - Lao with TIS820-2538</string>
+	<key>CFBundleVersion</key>
+	<string>2.0</string>
+	<key>KLInfo_Lao - Lao with TIS820-2538</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.lao- lao with tis820-2538.lao- lao with tis820-2538</string>
+		<key>TISIntendedLanguage</key>
+		<string>lo-Laoo-LA</string>
+	</dict>
+</dict>
+</plist>
