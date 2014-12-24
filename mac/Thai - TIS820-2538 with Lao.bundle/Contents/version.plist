@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>2.0</string>
+	<string>2.1</string>
 	<key>CFBundleVersion</key>
-	<string>2.0</string>
+	<string>2.1</string>
 	<key>ProjectName</key>
 	<string>Thai - TIS820-2538 with Lao</string>
 	<key>SourceVersion</key>
-	<string>Boon-KB-Thai-Lao</string>
+	<string>Boon-KB-TH-LA</string>
 </dict>
 </plist>
