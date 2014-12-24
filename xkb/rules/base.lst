@@ -280,7 +280,8 @@
   bw              Tswana
   ph              Filipino
   md              Moldavian
-  th_lo_boon      Thai and Lao (Boon)
+  th_la_boon      Thai (TH-LA Boon-KB)
+  boon_latin      Latin (Boon-KB)
 
 ! variant
   chr             us: Cherokee

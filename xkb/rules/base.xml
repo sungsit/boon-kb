@@ -4847,11 +4847,23 @@
 
     <layout>
       <configItem>
-        <name>th_lo_boon</name>
-        <shortDescription>th_lo_boon</shortDescription>
-        <description>Thai and Lao (Boon)</description>
+        <name>th_la_boon</name>
+        <shortDescription>th_la_boon</shortDescription>
+        <description>Thai (TH-LA Boon-KB)</description>
         <languageList>
           <iso639Id>tha</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList/>
+    </layout>
+
+    <layout>
+      <configItem>
+        <name>boon_latin</name>
+        <shortDescription>boon_latin</shortDescription>
+        <description>Latin (Boon-KB)</description>
+        <languageList>
+          <iso639Id>cdo</iso639Id>
         </languageList>
       </configItem>
       <variantList/>
